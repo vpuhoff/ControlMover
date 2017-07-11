@@ -1,0 +1,9 @@
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\bin\Debug\ControlMover.exe.config
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\bin\Debug\ControlMover.exe
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\bin\Debug\ControlMover.pdb
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\obj\Debug\ControlMover.csprojResolveAssemblyReference.cache
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\obj\Debug\ControlMover.Form1.resources
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\obj\Debug\ControlMover.Properties.Resources.resources
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\obj\Debug\ControlMover.csproj.GenerateResource.Cache
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\obj\Debug\ControlMover.exe
+c:\users\vpuhoff\documents\visual studio 2017\Projects\ControlMover\ControlMover\obj\Debug\ControlMover.pdb
